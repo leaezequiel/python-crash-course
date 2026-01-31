@@ -10,9 +10,9 @@ Mi meta es construir una base sólida en programación como primer paso de mi fo
 #### Parte 1: Conceptos
 - [x] **Capítulo 2:** Variables y tipos de datos simples.
 - [X] **Capítulo 3:** Listas y su manipulación.
-- [ ] **Capítulo 4:** Trabajando con listas.
-- [ ] **Capítulo 5:** Sentencias If.
-- [ ] **Capítulo 6:** Diccionarios.
+- [x] **Capítulo 4:** Trabajando con listas.
+- [x] **Capítulo 5:** Sentencias If.
+- [ ] **Capítulo 6:** Diccionarios. **En proceso**
 - [ ] **Capítulo 7:** Entrada de usuario y bucles While.
 - [ ] **Capítulo 8:** Funciones.
 - [ ] **Capítulo 9:** Clases.
