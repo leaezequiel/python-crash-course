@@ -14,9 +14,9 @@ Mi meta es construir una base sólida en programación como primer paso de mi fo
 - [x] **Capítulo 5:** Sentencias If.
 - [X] **Capítulo 6:** Diccionarios. 
 - [X] **Capítulo 7:** Entrada de usuario y bucles While.
-- [ ] **Capítulo 8:** Funciones. **En proceso**
-- [ ] **Capítulo 9:** Clases.
-- [ ] **Capítulo 10:** Archivos y excepciones.
+- [X] **Capítulo 8:** Funciones. 
+- [X] **Capítulo 9:** Clases.
+- [ ] **Capítulo 10:** Archivos y excepciones. **En proceso**
 - [ ] **Capítulo 11:** Probando tu código.
 
 #### Parte 2: Proyectos
