@@ -1,0 +1,4 @@
+En Python podes hacer clases
+En Python podes crear números aleatorios
+En Python podes hacer cálculos rápidamente
+En Python podes analizar data
