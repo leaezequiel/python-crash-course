@@ -16,8 +16,8 @@ Mi meta es construir una base sólida en programación como primer paso de mi fo
 - [X] **Capítulo 7:** Entrada de usuario y bucles While.
 - [X] **Capítulo 8:** Funciones. 
 - [X] **Capítulo 9:** Clases.
-- [ ] **Capítulo 10:** Archivos y excepciones. **En proceso**
-- [ ] **Capítulo 11:** Probando tu código.
+- [X] **Capítulo 10:** Archivos y excepciones. 
+- [ ] **Capítulo 11:** Probando tu código. **En proceso**
 
 #### Parte 2: Proyectos
 - [ ] **Proyecto 1:** Alien Invasion (Desarrollo de un juego con Pygame).
